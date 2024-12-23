@@ -1,2 +1,2 @@
 # python
-test repo
+test repository for git tutorial .
