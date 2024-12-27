@@ -8,6 +8,7 @@ else:
         print("yes i am thirsty and i need water to drink!")
     else:
         print("dom your homework")    
+       
 
     
 #thirsty branch
