@@ -7,7 +7,7 @@ else:
     if thirsty=="yes":
         print("yes i am thirsty and i need water to drink!")
     else:
-        print("drink coffee")    
+        print("dom your homework")    
 
     
 #thirsty branch
